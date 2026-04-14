@@ -112,3 +112,18 @@ git clone https://github.com/yourusername/smart-logistics-analysis
 cd smart-logistics-analysis
 pip install -r requirements.txt
 jupyter notebook
+```
+
+## 📌 Future Improvements
+
+- Deploy model as an API  
+- Build an interactive dashboard (Power BI / Streamlit)  
+- Implement a real-time prediction system  
+
+---
+
+## 👤 Author
+
+Nnaemeka Destine Dike
+
+LinkedIn: https://www.linkedin.com/in/nnaemekadestinedike
