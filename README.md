@@ -6,7 +6,7 @@
 
 This project presents a comprehensive analysis of a smart logistics dataset, combining descriptive analytics and machine learning to uncover operational inefficiencies and predict shipment delays.
 
-The analysis reveals key performance bottlenecks across logistics operations, with a focus on delay patterns, traffic conditions, asset performance, and environmental factors.
+The analysis reveals key performance bottlenecks across logistics operations, focusing on delay patterns, traffic conditions, asset performance, and environmental factors.
 
 ---
 
@@ -90,6 +90,7 @@ The analysis reveals key performance bottlenecks across logistics operations, wi
 ---
 
 ## 📊 Sample Visualizations
+<img width="2227" height="1455" alt="SUMMARY_dashboard" src="https://github.com/user-attachments/assets/3678616b-aa16-4c9f-a055-ef38fd5c7e65" />
 
 
 
